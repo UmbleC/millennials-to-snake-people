@@ -22,7 +22,7 @@ function handleText(textNode) {
 function replaceText(v)
 {
     // Basecase
-    v = v.replace(/\b(P|p)ok(e|é|è)mon (G|g)(o|O)(s)?\b/g, "Going outside and talking to people");
+    v = v.replace(/\b(P|p)ok(e|é|è)mon (G|g)(o|O)(s)?\b/g, "Going Outside and Talking to People");
 
 
     return v;
