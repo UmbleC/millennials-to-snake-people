@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 
-	"name": "Pokemon Go to Going Outside and Talking to People",
+	"name": "PokemonGo to Going Outside",
     "short_name": "Pokemon Go Outside",
 	"description": "Replaces the text 'Pokemon Go' with 'Go Outside and Talk to people'.",
 	"author": "Chloe Umble",
